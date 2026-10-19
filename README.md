@@ -96,13 +96,12 @@ Your text becomes one continuous, justified passage: line breaks and blank lines
 | --- | --- | --- |
 | Research question | `*Where and how is AI computation performed?*` | Sans serif italic. |
 | Keyword or key concept | `**Data centres**` | Sans serif bold. |
-| Data source | `[Dataset XX](https://example.org/data)` | Underlined; opens in a new tab. |
+| Data source | `[Dataset XX](https://example.org/data)` | Sans serif, underlined; opens in a new tab. Use links for data sources; ordinary words have no underline formatting option. |
 | Note | `[[a detail\|A short explanation]]` | `{✶ A short explanation}`, open; the label folds it. |
-| Citation | `[[Parikka, 2015\|A geology of media\|type=bibliography]]` | Serif, black: `(■ Parikka, 2015. A geology of media)`. Put a link where the title goes and the whole citation opens it. |
+| Citation | `[[Parikka, 2015\|A geology of media\|type=bibliography]]` | Serif, black: `(■ Parikka, 2015. A geology of media)`, without underlining unless linked to its source. For an underlined source citation, use `[[Parikka, 2015. A geology of media\|https://example.org/book\|type=bibliography]]`. |
 | Quote | `[[a quotation\|Quoted words\|type=quote]]` | The label reveals the words in quotation marks. |
 | Media | `[[interview]]` | The image, audio or video named in `media.csv`. |
 | Color | `{crimson\|a key finding}` | Colored text. Any CSS color works, e.g. `{#116964\|…}`. |
-| Underline | `{underline\|Dataset XX}` | Underlined text, e.g. a data source without a link. |
 
 Notes, citations and quotes take optional modifiers after a second `|`, separated by `;`: `[[a note|More context|type=note;color=green]]`.
 
@@ -120,8 +119,8 @@ Notes, citations and quotes take optional modifiers after a second `|`, separate
 | Media | Behavior |
 | --- | --- |
 | Image | Inline thumbnail; aspect ratio kept. Hover or keyboard focus: enlarged preview. Click or tap: opens the original source in a new tab. |
-| Audio | Static player with a play symbol and label. Click or tap: opens the original source in a new tab. |
-| Video | Inline, muted and looping; starts when half visible. Hover: enlarged preview with sound, when the browser permits playback. Keyboard focus: muted preview. Click or tap: opens the original source in a new tab. |
+| Audio | Player with a play symbol and label. Hover or keyboard focus: plays with sound; leaving stops playback. Click or tap: opens the original source in a new tab. |
+| Video | Inline, muted and looping; starts when half visible. Hover: enlarged preview with sound, when the browser permits playback. Keyboard focus: preview with sound. Click or tap: opens the original source in a new tab. |
 | External embed | Opens from its annotation. An **Open media on provider** link is always shown; playback inside the page may vary. |
 
 A click opens the source in the file's `media.csv` row. With an empty source, it opens the published file itself.
@@ -130,7 +129,7 @@ The course [media and sources worksheet](https://docs.google.com/spreadsheets/d/
 
 - Playback stops off screen, on entry switch, while the main image is enlarged, and when the page is hidden.
 - With reduced motion turned on, videos stay still and previews do not animate.
-- Browsers may refuse automatic playback or sound, and playback depends on the file's encoding. The source link always works. Check your entry on the site.
+- Browsers may refuse automatic playback or sound, and playback depends on the file's encoding. If sound is blocked, choose **Enable sound**, then hover again. The source link always works. Check your entry on the site.
 
 ## 9. Editor (preview)
 
