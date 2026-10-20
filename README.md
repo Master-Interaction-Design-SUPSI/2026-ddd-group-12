@@ -98,8 +98,7 @@ Your text becomes one continuous, justified passage: line breaks and blank lines
 | Keyword or key concept | `**Data centres**` | Sans serif bold. |
 | Data source | `[Dataset XX](https://example.org/data)` | Sans serif, underlined; opens in a new tab. Use links for data sources; ordinary words have no underline formatting option. |
 | Note | `[[a detail\|A short explanation]]` | `{✶ A short explanation}`, open; the label folds it. |
-| Citation | `[[Parikka, 2015\|A geology of media\|type=bibliography]]` | Serif, black: `(■ Parikka, 2015. A geology of media)`, without underlining unless linked to its source. For an underlined source citation, use `[[Parikka, 2015. A geology of media\|https://example.org/book\|type=bibliography]]`. |
-| Quote | `[[a quotation\|Quoted words\|type=quote]]` | The label reveals the words in quotation marks. |
+| Citation | `[[Author, XX. Title\|https://example.org/book\|type=bibliography]]` | Serif, black, underlined: `(■ Author, XX. Title)`. |
 | Media | `[[interview]]` | The image, audio or video named in `media.csv`. |
 | Color | `{crimson\|a key finding}` | Colored text. Any CSS color works, e.g. `{#116964\|…}`. |
 
@@ -131,17 +130,5 @@ The course [media and sources worksheet](https://docs.google.com/spreadsheets/d/
 - With reduced motion turned on, videos stay still and previews do not animate.
 - Browsers may refuse automatic playback or sound, and playback depends on the file's encoding. If sound is blocked, choose **Enable sound**, then hover again. The source link always works. Check your entry on the site.
 
-## 9. Editor (preview)
 
-Use only after the course team announces it. URL: website link + `editor/`.
-
-1. **Group** → **Open last published version**. New group: **Start from template**.
-2. Edit the Markdown. Attach files with their exact destination, e.g. `media/new-photo.png`, a name and a source link; the row goes into `media.csv`. **Insert in text** writes `[[name]]`.
-3. **Check and prepare GitHub steps**. Resolve every error.
-4. Follow the generated steps on GitHub, in any order: compare current GitHub text, upload media, commit `media.csv`, commit `text.md`, delete removed files.
-5. To replace media the text already uses, upload it under a new filename.
-6. If shown, **Request publication** after all commits. Read the answer on the issue.
-
-Drafts are saved in this browser only. Restore brings back text and attachments together. If storage is denied or full, the editor lists what was not saved; a text-only backup needs its media reattached or discarded. If saving is unavailable, **Download text.md** before leaving.
-
-Nothing is published until the commits are on GitHub. After the last one, look at your entry on the site (§6).
+Nothing is published until the commits are on GitHub. You can check your last entry from the top right corner of your abstract on the site (§6).
