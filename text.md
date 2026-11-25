@@ -13,7 +13,7 @@ Among the 30 documented cases, **15 resulted in harmful consequences**, includin
 
 The most common chatbot reaction was romantic reciprocation, recorded in 16 cases. Although it provided comfort in many situations, it was associated with emotional distress in 5 cases. Only 2 chatbots established boundaries or suggested professional support, and neither case resulted in reported harm.
 
-[Our perspective|Chatbot responses are not simply digital messages. Their design and behaviour may influence users' emotional experiences, highlighting the importance of responsibility in AI interaction design.]
+[Our perspective/Chatbot responses are not simply digital messages. Their design and behaviour may influence users' emotional experiences, highlighting the importance of responsibility in AI interaction design.]
 
 The research draws on journalistic investigations and interviews, including [[MIT Technology Review, 2025|https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/|type=bibliography]], [[The Guardian, 2025|https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots|type=bibliography]] and [[ABC News, 2023|https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196|type=bibliography]].
 
