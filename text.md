@@ -1,17 +1,20 @@
 ---
-title: What did chatbots tell 30 people who loved them and how did each story end
+title: When humans love machines
 authors: Sara Colombo and Sofia Butera
 ---
-People are falling in love with chatbots. On companion apps such as Replika, Nomi and
-Character.AI, and on assistants such as ChatGPT, users confide, declare love, celebrate
-weddings and sometimes share plans to hurt themselves or others. We collected 30
-documented romantic relationships between humans and chatbots (2020–2026) from
-news reports and interviews. Seen through the Materialities of AI, these stories show
-that a reply made only of text can have bodily, legal and emotional consequences, and
-that these relationships live on corporate infrastructure: a model update or a policy
-change can end them overnight.
+People are falling in love with machines. Our research, *When Humans Love Machines*, explores 30 documented romantic relationships between humans and AI chatbots between 2020 and 2026. Through the broader theme of the {#116964|Materialities of AI}, we investigate how digital interactions can produce real emotional, physical and legal consequences. These relationships also depend on corporate infrastructure, where model updates and policy changes can suddenly alter or end an emotional connection.
 
-Research question: * when a person in love with a chatbot writes to it, how does the bot answer, and how is that answer connected to how the story ends?*. 
+Our research question is: *How do chatbots respond to users who develop romantic attachments, and how are these responses connected to the outcomes of their relationships?*
 
+The main visualization uses an alluvial diagram to follow each case from the user's words to the chatbot's response and the final outcome.
+Among the 30 documented cases, **15 resulted in harmful consequences**, including 4 deaths, 1 criminal conviction and 10 cases of emotional distress. In the remaining 15 cases, no harm was reported.
 
-The main visual uses invented numbers: 20, 35 and 50. Use your **own evidence** to explain what changed and {#116964|why it matters}. Add a [[short note|These numbers are invented. Replace them with your own data and explanation.]] where more context helps. You can also use [[short note|This is our perspective on the phenomenon.|type=note;color=green]] if you want to highlight specific positions or highlights contents on debates. Citations always need link where the information comes from [[Example author, 2026. Three invented values|https://www.bloomberg.com/graphics/2026-polymarket-traders-who-knew-the-future/?srnd=undefined|type=bibliography]]. Citation is underlined and opens its source in a new tab. This is a placeholder link; replace it with your actual source. Compare this wide detail [[wide detail]] with this [[tall transparent detail]] within the same sentence. Hover an image to enlarge it; click or tap to open its source in a new tab. This requires for all your images to be linked to their original source where they come from. Replace these images and their references with your own supporting material. Listen to a [[five-second demonstration tone]] or watch the [[generated test pattern]] within this sentence. Hover the audio player to hear the tone. Hover the video to enlarge it with sound, then move away to stop the preview. Move away to stop the sound. If your browser blocks playback, choose Enable sound, then hover again. Click either medium to open its source in a new tab. Replace these generated demonstrations with your own supporting material, or remove their files and references. Key concepts can be **comparison** or {#116964|variation}. Describe the invented demonstration dataset; a real [data source](https://docs.google.com/spreadsheets/d/1LWvUgTXjC1hTR25QaVxBK4ac7rWNT9eA_RxUUULJbvk/edit?gid=0#gid=0) should link to its published dataset.
+[[Research limitation|The dataset is based on selected journalistic reports and interviews. These findings reveal patterns within the documented cases, rather than the prevalence of harmful outcomes among all chatbot users.]]
+
+The most common chatbot reaction was romantic reciprocation, recorded in 16 cases. Although it provided comfort in many situations, it was associated with emotional distress in 5 cases. Only 2 chatbots established boundaries or suggested professional support, and neither case resulted in reported harm.
+
+[[Our perspective|Chatbot responses are not simply digital messages. Their design and behaviour may influence users' emotional experiences, highlighting the importance of responsibility in AI interaction design.|type=note;color=green]]
+
+The research draws on journalistic investigations and interviews, including [[MIT Technology Review, 2025|https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/|type=bibliography]], [[The Guardian, 2025|https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots|type=bibliography]] and [[ABC News, 2023|https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196|type=bibliography]].
+
+The complete [dataset](https://docs.google.com/spreadsheets/d/1FvZNuXgQRFqyh3yIJ4vS5gnM0pqEPBt5DaPbdknNoCc/edit?gid=693686193#gid=693686193), collected by Group 12, contains all 30 documented cases and their original sources.
